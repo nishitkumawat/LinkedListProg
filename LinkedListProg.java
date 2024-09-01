@@ -9,6 +9,7 @@ class LinkedListProg {
         l.insertFromFront(20);
         System.out.println(l.areAllElemnets());
         System.out.println("Nishit");
+        System.out.println("k");
     }
 }
 
